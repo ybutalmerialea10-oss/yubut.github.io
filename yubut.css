@@ -1,0 +1,4 @@
+.navbar ul{list-style-type:none; background-color:#e0c9a6; padding:0px;margin:0px;overflow:hidden;}
+.navbar a {color:White; text-decoration:none;display:block;padding:15px;}
+.navbar a:hover {background-color:D8AB74;}
+.navbar li {float:left;}
